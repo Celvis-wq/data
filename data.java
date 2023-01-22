@@ -10,5 +10,6 @@ public class data {
                 /*
                 [0], [1], [2]
                 */
+                System.out.println("Data");
         }
 }
