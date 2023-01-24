@@ -10,6 +10,14 @@ public class data {
                 /*
                 [0], [1], [2]
                 */
-                System.out.println("Data");
+                /*
+                if (key.equals(keylist[0]) {
+                        // Output
+                        System.out.println("Welcome");
+                } else {
+                        // Output
+                        System.out.println("Error.");
+                }
+                */
         }
 }
