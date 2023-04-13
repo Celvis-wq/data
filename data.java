@@ -18,7 +18,6 @@ public class data {
                         // Output
                         System.out.println("Error.");
                 }
-                sout
                 */
         }
 }
